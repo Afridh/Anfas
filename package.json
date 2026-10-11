@@ -1,0 +1,12 @@
+{
+  "name": "textile-erp-pos",
+  "version": "1.0.0",
+  "description": "ERP + POS for Indian cloth import & trading business (GST, imports, landed cost, inventory, billing)",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": { "node": ">=22.13" }
+}
